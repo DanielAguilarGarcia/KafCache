@@ -1,6 +1,7 @@
 # KafCache
 Proyecto para enviar mensajes a topics de Kafka.
 
+Primero copiar la carpeta dll en el equipo donde tenemos instalado Caché (Por ejemplo c:\kafkaAQS\ )
 
 Para configurarlo en Caché importaremos el paquete Kafka y abriremos la clase Kafka.Helper.cls
 Dentro de la misma configuraremos los parámetros de configuración del Gateway que ejecuta la DLL
